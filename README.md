@@ -45,7 +45,8 @@
 ---
 
 ## 🔥 **Streak Stats**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nafi14078&" alt="nafi14078" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nafi14078&theme=radical)
+
 
 
 
