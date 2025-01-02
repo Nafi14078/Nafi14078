@@ -1,6 +1,6 @@
 # Hi there, I'm Ashfak Azad Nafi 👋
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=Nafi14078&color=brightgreen)-->
+![Profile Views](https://komarev.com/ghpvc/?username=Nafi14078&color=brightgreen)
 
 ---
 
