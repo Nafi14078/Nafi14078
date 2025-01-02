@@ -53,7 +53,7 @@
 ---
 
 ## 📊 **Contribution Graph**
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nafi14078&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nafi14078&theme=dracula)](https://github.com/Nafi14078/github-readme-activity-graph)
 
 ---
 
