@@ -4,6 +4,9 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nafi14078&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 🌟 **About Me**
 - 🎓 An Undergraduate student of Computer Science and Engineering(CSE) at Islamic University of Technology(IUT)
@@ -51,6 +54,10 @@
 
 
 
+---
+
+### 📊 WakaTime Stats (Last Year)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Nafi14078&layout=compact&range=last_year)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
 ---
 
 ## 📊 **Contribution Graph**
