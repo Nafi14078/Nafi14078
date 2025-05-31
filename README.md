@@ -56,9 +56,7 @@
 
 ---
 
-### 📊 WakaTime Stats (Last Year)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Nafi14078&layout=compact&range=last_year)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
----
+
 
 ## 📊 **Contribution Graph**
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nafi14078&theme=dracula)](https://github.com/Nafi14078/github-readme-activity-graph)
