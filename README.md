@@ -63,6 +63,14 @@
 
 ---
 
+## 📊 **Competitive Programming Stats**
+![Leetcode Stats](https://leetcard.jacoblin.cool/Nafi14078?ext=heatmap)
+
+---
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nafi_14078)
+
+---
+
 ## 🎨 **Personal Interests**
 - 💻  learning Technology  
 - 🔭 Physics  
